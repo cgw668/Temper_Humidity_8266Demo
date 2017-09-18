@@ -1,0 +1,10 @@
+#pragma  once
+#include "../../proj/tl_common.h"
+#include "../../proj/simu/aes_api.h"
+#include "../hci/hci_include.h"
+#include "../l2cap/l2cap.h"
+#include "smp_const.h"
+#include "smp.h"
+#include "smp_key.h"
+#include "smp_table.h"
+#include "smp_utils.h"

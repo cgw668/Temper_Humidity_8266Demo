@@ -1,0 +1,7 @@
+##ignore this file##
+*.bin
+*.o
+*.cproject
+*.project
+*.lst
+*.elf
